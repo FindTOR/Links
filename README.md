@@ -3,7 +3,7 @@
 Following dark web links are tested working in 2023, this list includes both market links and hidden wiki's
 
 
-Hidden wiki - wiki5uilrynvgw5p2xp5zglswjyhg6yherm24fjbq4ffxnlmvt7u46yd.onion
+Hidden wiki - http://wiki5uilrynvgw5p2xp5zglswjyhg6yherm24fjbq4ffxnlmvt7u46yd.onion
 
 ProtonMail - http://protonmailrmez3lotccipshtkleegetolb73fuirgj7r4o4vfu7ozyd.onion
 
