@@ -1,4 +1,4 @@
-# 2023 Updated links dark web hidden wiki
+# 2023 Updated dark web links, working hidden wiki link
 
 Following dark web links are tested working in 2023, this list includes both market links and hidden wiki's
 
@@ -23,13 +23,12 @@ Paypal World - http://payplb3mm5bdkns6v7xou7xeefcl5bqedofcpnd462rw4gm4xbbwfpad.o
 
 Tor Gifts - http://giftto33ep564ztvpc6652xt4vkupphghcvtxqwpxi6gq5k2fmjd4zid.onion
 
-Hackerpass - http://hackeoyrzjy3ob4cdr2q56bgp7cpatruphcxvgbfsiw6zeqcc36e4ryd.onion
+Hacker market - http://hackeoyrzjy3ob4cdr2q56bgp7cpatruphcxvgbfsiw6zeqcc36e4ryd.onion
 
 Apple World - http://applbwku7dfadkfkumiojsbxekuiafpr44idl7bxb2xll6neykvx35id.onion
 
-Alphabay - http://alphabaysumiojsbxeb2xlkdfadkfkuiafpr4vx35id4idl7bxl6neyk.onion
+Alphabay Store - http://alphabaysumiojsbxeb2xikdfadkfkuiafpr4vx35id4idl7bxl6neyk.onion
 
-WeedX - http://weeeedxejprore6lprzg5xwgkujwi27yk6vdj2qtizxoxm7dqe52vaid.onion
 
 
 
