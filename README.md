@@ -2,7 +2,7 @@
 
 Following dark web links are tested working in 2023, this list includes both market links and working hidden wiki 2023
 
-Browse at your own risk, we share dark web links only as a matter of free speech.
+Browse at your own risk, we share [tor links](https://github.com/torlinks2023/i) only as a matter of free speech.
 
 All links are compatible with new updated onionV3 standard. Will work on every tor browser.
 
